@@ -1,4 +1,3 @@
-
 const topRight =document.querySelector('.top-right');
 const topLeft =document.querySelector('.top-left');
 const bottomLeft =document.querySelector('.bottom-left');
