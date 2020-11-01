@@ -1,0 +1,42 @@
+
+body{
+  background-color: gray;
+  text-align: center;
+  margin: 200px;
+}
+.panel {
+  display: inline-block;
+
+}
+.panel:hover {
+  box-shadow: inset 0px 0px 0px 3px yellow;
+  box-sizing: border-box;
+}
+.top-right{
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  border-radius: 200px;
+}
+
+.top-left{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.bottom-left{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
+
+.bottom-right{
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  border-radius: 200px;
+}
+.active {
+  background-color: white;
+}
